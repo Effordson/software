@@ -1,0 +1,11 @@
+版本: 1.72.2 (system setup)
+提交: d045a5eda657f4d7b676dedbfa7aab8207f8a075
+日期: 2022-10-12T22:15:18.074Z
+Electron: 19.0.17
+Chromium: 102.0.5005.167
+Node.js: 16.14.2
+V8: 10.2.154.15-electron.0
+OS: Windows_NT x64 10.0.22621
+沙盒化: No
+
+https://update.code.visualstudio.com/commit:d045a5eda657f4d7b676dedbfa7aab8207f8a075/server-linux-x64/stable
