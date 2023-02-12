@@ -1,0 +1,3 @@
+软件版本：9.1.6
+位置：C:\Users\用户名\AppData\Local\Yodao\DeskDict\nmt_model
+解压nmt_model.zip文件，把里面的2个文件夹放到上面目录
